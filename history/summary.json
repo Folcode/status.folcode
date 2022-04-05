@@ -22,7 +22,7 @@
     "url": "https://www.folcode.com",
     "icon": "https://favicons.githubusercontent.com/www.folcode.com",
     "slug": "folcode",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +33,8 @@
     "timeWeek": 399,
     "timeMonth": 398,
     "timeYear": 398,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-05": 0
+    }
   }
 ]
